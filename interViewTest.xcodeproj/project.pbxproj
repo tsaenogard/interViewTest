@@ -306,6 +306,7 @@
 				4063B30C1EFA51F300DE0615 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
